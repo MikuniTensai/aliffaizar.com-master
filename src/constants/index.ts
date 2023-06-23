@@ -85,21 +85,21 @@ const experience = [
 export const PROJECTS = [
   {
     name: 'TheMeet',
-    tech: ['Turborepo', 'NestJs', 'MySql', 'Vite'],
+    // tech: ['Turborepo', 'NestJs', 'MySql', 'Vite'],
     // githubUrl: 'https://github.com/aliffaizar/dummy-code',
     url: 'https://play.google.com/store/apps/details?id=com.doyouone.themeet',
     imageUrl: '/images/dummy-code.png',
   },
   {
     name: 'Tebak Yuk',
-    tech: ['NestJs', 'Mysql', 'Swagger'],
+    // tech: ['NestJs', 'Mysql', 'Swagger'],
     // githubUrl: 'https://github.com/aliffaizar/bookstore',
     url: 'https://play.google.com/store/apps/details?id=com.doyouone.tebakyuk',
     imageUrl: '/images/rest-api.png',
   },
   {
     name: 'Escape From Labyrinth',
-    tech: ['Nodejs', 'npm'],
+    // tech: ['Nodejs', 'npm'],
     // githubUrl: 'https://github.com/aliffaizar/xpress-cli',
     url: 'https://play.google.com/store/apps/details?id=com.doyouone.efl',
     imageUrl: '/images/xpress-cli.png',
