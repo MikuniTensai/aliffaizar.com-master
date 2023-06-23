@@ -18,13 +18,13 @@ export default function PortfolioCard(project: IProject) {
             <div className='space-y-1 text-lg font-medium leading-6 text-center'>
               <h3>{project.name}</h3>
             </div>
-            {/* <div className='flex-wrap justify-center items-center gap-2 flex'>
+            <div className='flex-wrap justify-center items-center gap-2 flex'>
               {project.tech.map((tech) => (
                 <span key={tech} className='text-sm font-medium text-gray-400'>
                   {tech}
                 </span>
               ))}
-            </div> */}
+            </div>
             <div className='flex justify-center items-center gap-2'>
               <a
                 className='bg-cyan-600 px-6 rounded py-1 text-sm text-zinc-300'
@@ -34,14 +34,14 @@ export default function PortfolioCard(project: IProject) {
               >
                 Visit
               </a>
-              {/* <a
+              <a
                 className='bg-cyan-600 px-6 rounded py-1 text-sm text-zinc-300'
                 href={project.githubUrl}
                 target='_blank'
                 rel='noopener noreferrer'
               >
                 Github
-              </a> */}
+              </a>
             </div>
           </div>
         </div>
