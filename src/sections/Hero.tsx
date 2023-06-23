@@ -23,7 +23,8 @@ effective work in teams
         <div className='relative mt-4'>
           <div className='bg-gradient-to-r from-cyan-500 via-blue-500 to-indigo-500 w-44 h-8 md:w-52 md:h-10 lg:w-64 lg:h-12'></div>
           <a
-            href='https://drive.google.com/file/d/1BblJyK6e-DK1hy2Z8bHcxYZX0KLW9aob/view?usp=sharing'
+            // href='https://drive.google.com/file/d/1BblJyK6e-DK1hy2Z8bHcxYZX0KLW9aob/view?usp=sharing'
+            href=''
             target='_blank'
             className='w-44 h-8 md:w-52 md:h-10 lg:w-64 lg:h-12 bg-white text-gray-900 font-mono text-sm md:text-base lg:text-lg font-bold lg:font-semibold flex items-center justify-center absolute right-1 bottom-1 lg:right-2 lg:bottom-2 hover:right-0 hover:bottom-0'
           >

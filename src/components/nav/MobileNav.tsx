@@ -55,7 +55,7 @@ export default function MobileNav({
                     <EnvelopeIcon className='w-8 h-8 group-hover:scale-125' />
                   </button>
                   <a
-                    href='https://github.com/aliffaizar'
+                    href=''
                     target='_blank'
                     className='flex aspect-square rounded-md flex-col items-center justify-center w-full bg-zinc-800'
                   >
@@ -64,7 +64,7 @@ export default function MobileNav({
                     </span>
                   </a>
                   <a
-                    href='https://www.linkedin.com/in/aliffaizar/'
+                    href='https://www.linkedin.com/in/'
                     target='_blank'
                     className='flex aspect-square rounded-md flex-col items-center justify-center w-full bg-zinc-800'
                   >
@@ -73,7 +73,7 @@ export default function MobileNav({
                     </span>
                   </a>
                   <a
-                    href='https://twitter.com/alif_faizar'
+                    href='https://twitter.com/'
                     target='_blank'
                     className='flex aspect-square rounded-md flex-col items-center justify-center w-full bg-zinc-800'
                   >
